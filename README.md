@@ -4,6 +4,12 @@ BS Information Systems Student @ Kolehiyo ng Lungsod ng Dasmariñas
 About Me
 Full-stack developer and Information Systems student passionate about building practical web applications, designing intuitive user interfaces, and solving real-world problems through tech.
 
+  👨‍💻 About Me
+- 🎯 **Target Roles:** Full-Stack Developer | Frontend Engineer | Junior Software Engineer
+- 🔭 **Current Focus:** Building responsive full-stack applications and designing clean database architectures
+- 💡 **Interests:** Web development, UI/UX design, and AI-assisted developer workflows
+- 📫 **How to reach me:** [Your Email / LinkedIn Link]
+
 
  💻 Programming Languages
 <p align="left">
@@ -48,8 +54,15 @@ Full-stack developer and Information Systems student passionate about building p
   <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" height="40" alt="Claude" />
 </p>
 
+⚙️ Methodologies & Service Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Agile" />
+  <img src="https://img.shields.io/badge/Scrum-000000?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum" />
+  <img src="https://img.shields.io/badge/SDLC-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="SDLC" />
+  <img src="https://img.shields.io/badge/ITIL_4-025E8A?style=for-the-badge&logo=itil&logoColor=white" alt="ITIL 4" />
+</p>
 
- 🚀 Featured Projects
+ 💼 Experience & Key Projects
 
 eComplain Dasma
   An online civic complaint and infrastructure damage reporting portal built using Agile methodology. Features user reporting tools and administrative analytics dashboards.
@@ -62,3 +75,5 @@ VenturaBridge
 
 Grace Dental Clinic DHIS
   A Digital Health Information System designed to streamline patient records, clinical operations, and data management.
+
+
